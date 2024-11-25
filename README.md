@@ -110,6 +110,22 @@ Menu:
 3. Hapus data mahasiswa
 4. Ubah data mahasiswa
 5. Keluar
+Pilih menu (1/2/3/4/5): 2
+Daftar Nilai Mahasiswa:
+--------------------------
+Nama: Sheila , Nilai: 97.0
+--------------------------
+Nama: khusnul , Nilai: 87.0
+--------------------------
+Nama: alya , Nilai: 87.0
+--------------------------
+
+Menu:
+1. Tambah data mahasiswa
+2. Tampilkan data mahasiswa
+3. Hapus data mahasiswa
+4. Ubah data mahasiswa
+5. Keluar
 Pilih menu (1/2/3/4/5): 5
 ```
 ## Flowcart
