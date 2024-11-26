@@ -129,6 +129,7 @@ Menu:
 Pilih menu (1/2/3/4/5): 5
 ```
 ## Flowcart
+![Flowchart_page-0001](https://github.com/user-attachments/assets/2edd0270-6fce-4a11-b62a-0a784fb9631b)
 
 ## Penjelasan 
 - Fungsi ini digunakan untuk menambahkan data mahasiswa ke dalam daftar data_mahasiswa.
